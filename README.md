@@ -1,8 +1,8 @@
 ## Week 1 Assignment: Flixster
 
-Submitted by: **NAME**
+Submitted by: Divya Machineni
 
-Estimated time spent: **#** hours spent in total
+Estimated time spent: 11 hours spent in total
 
 Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
@@ -40,23 +40,24 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
+`TODO://` 
 
-`ADD_EMBEDDED_CODE_HERE`
+1) https://im4.ezgif.com/tmp/ezgif-4-1ca5d5fe9f.gif
+2) https://im4.ezgif.com/tmp/ezgif-4-1fd356ad61.gif 
 
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+Yes. The first day of lessons helped create the CSS grid layout, the header, and title of the pages. The report card lab helped me understand how to change the html code via event listeners. 
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+If I had some more time, I would have worked on the stretch features and tried different styling techniques. 
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+I am glad that I finished all the core requirements of the project. Reviewing previous lessons and looking at my lab code helepd me with the features a lot! Something I didn't plan for was getting sick on Friday, so it was really hard for me to finish the project while also recovering.  
 
 ### Open-source libraries used
 
