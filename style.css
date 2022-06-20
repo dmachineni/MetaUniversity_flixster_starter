@@ -1,1 +1,27 @@
+body {
+    background-color: black;
+}
 
+
+div {
+    color: rgb(255, 255, 255);
+    /* background-color: antiquewhite; */
+    text-align:center;
+}
+
+
+h1 {
+    color: white;
+    text-align:center;
+}
+#close-search-btn{
+    position: relative;
+    bottom: 0;
+}
+
+/* .movies-grid {
+    display:grid;
+    grid-template-columns: 1fr 1fr 1;
+    grid-template-rows: auto auto auto;
+    grid-gap: 20 px;
+} */

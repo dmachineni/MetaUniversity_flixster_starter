@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Flixster</title>
+
+    <!-- <link rel = "stylesheet" href = "normalize.css"> -->
+    <link rel = "stylesheet" href = "style.css">
+
+</head>
+
+<body>
+    <header>
+        <h1>Flixster</h1>
+    </header>
+
+    <form id = "search-input" class = "search-form">
+        <div id = "search-input-div">
+            <label>Search for a movie here: </label>
+            <input type = "text" id = "search" placeholder="enter here">
+        </div>
+
+        <div>
+            <button id = "search-button" type = "submit">Search</button>
+        </div>
+
+    </form>
+
+    <style>
+        #search-input {
+            /* margin-bottom: 1em; */
+            /* margin: 50px; */
+            padding: 50px;
+        }
+    </style>
+
+    <style>
+        .movies-grid {
+            display: grid;
+            grid-template-columns:1fr 1fr 1fr 1fr;
+            grid-row-gap: 1em;
+            grid-auto-rows: minmax(80px, auto);
+            grid-auto-columns: minmax(80px, auto);
+        }
+
+        .movies-grid > div{
+            padding: 1em;
+        }
+
+        /* .movies-grid >div:nth-child(odd) {
+            background-color:grey;
+        } */
+    </style>
+
+    <div class = "movies-grid">
+
+    </div>
+
+    <!-- <div class = "temp"></div> -->
+
+
+
+    <div class = "load-more">
+        <button id = "load-more-movies-btn" type = "click">Load More</button>
+    </div>
+
+    <style> 
+        .load-more {
+            margin-top:1em;
+        }
+    </style>
+
+
+
+   
+</body>
+<script src = "script.js"></script>
+</html>
