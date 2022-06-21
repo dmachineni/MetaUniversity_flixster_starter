@@ -40,10 +40,17 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-`TODO://` 
+<iframe 
+src="https://im4.ezgif.com/tmp/ezgif-4-1ca5d5fe9f.gif" frameborder="0" 
+webkitallowfullscreen mozallowfullscreen allowfullscreen 
+style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+</iframe>
 
-1) https://im4.ezgif.com/tmp/ezgif-4-1ca5d5fe9f.gif
-2) https://im4.ezgif.com/tmp/ezgif-4-1fd356ad61.gif 
+<iframe 
+src="https://im4.ezgif.com/tmp/ezgif-4-1fd356ad61.gif " frameborder="0" 
+webkitallowfullscreen mozallowfullscreen allowfullscreen 
+style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+</iframe>
 
 ### Reflection
 
@@ -64,8 +71,7 @@ I am glad that I finished all the core requirements of the project. Reviewing pr
 - Add any links to open-source libraries used in your project.
 
 ### Shout out
-
-Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+my TA: Vincent
 
 
 
