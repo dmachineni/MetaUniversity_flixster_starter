@@ -40,9 +40,9 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-`https://im4.ezgif.com/tmp/ezgif-4-1ca5d5fe9f.gif`
+https://im4.ezgif.com/tmp/ezgif-4-1ca5d5fe9f.gif
 
-`https://im4.ezgif.com/tmp/ezgif-4-1fd356ad61.gif`
+https://im4.ezgif.com/tmp/ezgif-4-1fd356ad61.gif
 
 ### Reflection
 
