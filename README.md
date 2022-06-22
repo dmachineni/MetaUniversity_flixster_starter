@@ -40,9 +40,9 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-![Uploading ezgif.com-gif-maker (1).gif…]()
+![FlixsterGIF2](https://user-images.githubusercontent.com/68713537/175142616-df13dc37-9b14-4963-b5a7-d4b3229a445f.gif)
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/68713537/175099521-1a0c2b06-e2c7-428c-989a-6c2b51ee5f3f.gif)
+![FlixsterGIF1](https://user-images.githubusercontent.com/68713537/175142637-a61bcff5-619a-45c8-a906-bbca82481fcc.gif)
 
 ### Reflection
 
